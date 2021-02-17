@@ -1,0 +1,3 @@
+D:/Egyetem/Prog2/Gyakorlat/PROJECTS/cmake-build-debug/CMakeFiles/PROJECTS.dir
+D:/Egyetem/Prog2/Gyakorlat/PROJECTS/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Egyetem/Prog2/Gyakorlat/PROJECTS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
